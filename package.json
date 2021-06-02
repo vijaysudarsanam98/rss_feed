@@ -1,0 +1,22 @@
+{
+  "name": "feeds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaysudarsanam98/rss_feed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaysudarsanam98/rss_feed/issues"
+  },
+  "homepage": "https://github.com/vijaysudarsanam98/rss_feed#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
