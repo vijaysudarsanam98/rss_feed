@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/vijaysudarsanam98/rss_feed#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "concat-stream": "^2.0.0",
+    "express": "^4.17.1",
+    "rss-parser": "^3.7.5"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
